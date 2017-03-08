@@ -1,0 +1,24 @@
+{
+  "title": "红楼梦在线阅读",
+  "description": "红楼梦在线阅读, 包括脂评本和程高本",
+  "author": "汤英康",
+  "links": {
+    "sidebar": {
+      "红楼一梦": "http://hongloumeng.site"
+    }
+  },
+  "plugins": [
+    "splitter",
+    "toggle-chapters",
+    "duoshuo"
+  ],
+  "pluginsConfig": {
+    "duoshuo": {
+      "short_name": "eacon",
+      "theme": "default"
+    }
+  },
+  "search": {
+    "maxIndexSize": 100000000
+  }
+}
