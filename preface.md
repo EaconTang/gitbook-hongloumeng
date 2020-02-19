@@ -10,15 +10,14 @@
 欢迎各位红迷加入我们, 一起维护和完善这个红楼梦在线阅读网站, 为红楼梦的普及贡献一份力量!
 
 ### 贡献者列表
-- Eacon
-    - QQ: 297279664
+- Eacon（站长）
+    - 微信：tyingk
     - 邮箱: tyingk@163.com
-    - 个人网站：[tangyingkang.com](http://tangyingkang.com)
+    - 博客：blog.tangyingkang.com
 - 白朮
     - QQ: 251259647
 - 小武
     - QQ: 121110874
-    - 邮箱: dwxu1993@gmail.com
 
     
 <br>
