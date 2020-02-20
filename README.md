@@ -30,7 +30,7 @@
 - Eacon（站长）
     - 微信：tyingk
     - 邮箱: tyingk@163.com
-    - 博客：[blog.tangyingkang.com](http://blog.tangyingkang.com)
+    - 博客：[blog.tangyingkang.com](http://blog.tangyingkang.com/about/)
 - 白朮
     - QQ: 251259647
 - 小武
