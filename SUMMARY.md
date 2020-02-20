@@ -1,7 +1,6 @@
 # Summary
 
-* [封面](README.md)
-* [前言](preface.md)
+* [前言](README.md)
 * [脂评本](zpb.md)
     * [戚蓼生序](prologue.md)
     * [甲戌本凡例](notes.md)

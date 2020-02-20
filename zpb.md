@@ -1,9 +1,13 @@
 # 红楼梦(脂砚斋批评本)
 ----
 
+* [前言](README.md)
+
+
 - 红楼梦脂评本(甲戌本+庚辰本+蒙府本), 八十回
 - [豆瓣链接](https://book.douban.com/subject/1844794/)
 - [百度百科](http://baike.baidu.com/view/540503.htm)
+
 
 ![](https://img3.doubanio.com/lpic/s2212160.jpg)
 

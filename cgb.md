@@ -1,6 +1,9 @@
 # 红楼梦(程高本)
 ----
 
+* [前言](README.md)
+
+
 - 红楼梦程高本(程伟元、高鹗续), 共一百二十回
 - [豆瓣链接](https://book.douban.com/subject/1007305/)
 - [百度百科](http://baike.baidu.com/view/1009799.htm)
